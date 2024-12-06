@@ -1,0 +1,7 @@
+Cac001, Cactus Cebre, Cactus, 15000.0, 15
+Cac002, Cactus abuelo, Captus, 25000.0, 21
+Cac003, Cactus azul, Cactus, 35000.0, 10
+Suc004, Echeveria, Suculenta, 12000.0, 100
+Suc005, Garra de oso, Suculenta, 8000.0, 150
+Suc006, Oreja de Sherk, Suculenta, 9500.0, 80
+Valor total del inventario: 4260000.0

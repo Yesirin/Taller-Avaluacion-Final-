@@ -1,0 +1,6 @@
+Cac001, Cactus Cebre, Cactus, 15000, 15
+Cac002, Cactus abuelo, Captus, 25000, 21
+Cac003, Cactus azul, Cactus, 35000, 10
+Suc004, Echeveria, Suculenta, 12000, 100
+Suc005, Garra de oso, Suculenta, 8000, 150
+Suc006, Oreja de Sherk, Suculenta, 9500, 80
